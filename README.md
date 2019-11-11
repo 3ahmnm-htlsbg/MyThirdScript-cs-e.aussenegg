@@ -18,7 +18,7 @@ Target Platform:
   - WebGL (refRes: 1280x720) 
   
 Screenshot:
-     ![](home-pic-playmode-mythirdscript-addnumbers-cs-_1_e.aussenegg.jpg)
+     ![](home-pic-playmode-mythirdscript-addnumbers-cs-_1_e.aussenegg.png)
      ![](home-pic-playmode-mythirdscript-addnumbers-cs-_2_e.aussenegg.jpg)
   
 Game Control: 
